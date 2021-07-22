@@ -1,0 +1,9 @@
+{
+	"name": "2021-april-etl-harshal-dataFactoryblob",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0b2262b-bc91-4cf1-bb40-52619a1a2f26",
+		"tenantId": "85c997b9-f494-46b3-a11d-772983cf6f11"
+	}
+}
